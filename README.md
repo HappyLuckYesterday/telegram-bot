@@ -1,7 +1,7 @@
 <h1 align="center"><em>Telegram bot template</em></h1>
 
 <h3 align="center">
-  Best way to create a scalable telegram bot with analytics
+  Best   way to create a scalable telegram bot with analytics
 </h3>
 
 <p align="center">
